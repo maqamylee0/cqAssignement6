@@ -1,0 +1,64 @@
+body{
+    margin: auto;
+}
+
+.card{
+min-width: 700px;
+min-height: 500px;
+width: 70%;
+margin: auto;
+border-radius:4px;
+background-color: rgb(212, 228, 211);
+
+}
+.firstname{
+    color: rgb(18, 83, 62);
+    border: 1px solid goldenrod;
+    border-radius: 3px;
+    background-color: rgb(101, 199, 199);
+    padding-left: 20px;
+    margin: 12px;
+    box-shadow: 10px 10px 8px #888888;
+
+
+
+}
+.lastname{
+    color: rgb(18, 83, 62);
+    border: 1px solid goldenrod;
+    border-radius: 3px;
+    background-color: rgb(101, 199, 199);
+    padding-left: 20px;
+    margin: 12px;
+    box-shadow: 10px 10px 8px #888888;
+
+
+
+}
+.contact{
+ color: rgb(80, 135, 160);
+  border: 1px solid goldenrod;
+  border-radius: 3px;
+  background-color: rgb(101, 199, 199);
+  padding-left: 20px;
+  margin: 12px;
+  box-shadow: 10px 10px 8px #888888;
+
+;
+}
+.content{
+    border: 1px solid goldenrod;
+    width: 54%;
+   float: right;
+   margin-top: 150px; 
+   margin-right: 20px; 
+  padding-left:30px ;
+  border: 2px solid forestgreen;
+  background-color: rgb(226, 217, 96);
+
+}
+img{
+    height: 100%;
+    width: 40%;
+    border-radius: 40px;
+}
